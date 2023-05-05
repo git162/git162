@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @git162
 - 👀 I’m interested in competitive programming
 - 🌱 I’m currently learning c++
+- I'm also learning web development
 
 <!---
 git162/git162 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
